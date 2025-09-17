@@ -23,11 +23,11 @@
 
 
 
-### 💼 Rift – 3D Printing Startup  
-- Co-founded a **small business** with storytelling campaigns (100k+ views on Instagram)  
+### 💼 Rift – 3D Printing Startup
+- Co-founded a **small business** with storytelling campaigns (**100k+ views on Instagram**)  
 - Delivered **200+ customized prints** in Tunisia  
-- ![Demo](https://via.placeholder.com/400x200?text=Rift+3D+Printing)  
-- [🔗 View Repository](https://github.com/harounrhim/rift-3dprinting)  
+- [🔗 Instagram Reels](https://www.instagram.com/rift.tn/reels/)  
+
 
 ## 🌐 Interact Tunisia Website
 
