@@ -28,6 +28,11 @@
 - Delivered **200+ customized prints** in Tunisia  
 - [🔗 Instagram Reels](https://www.instagram.com/rift.tn/reels/)  
 
+### 🔥 Jamra – Community & Custom Accessories
+- Launched **Jamra**, a platform for Tunisian-inspired custom accessories  
+- Focused on **community engagement sessions** to co-create designs with users  
+- Achieved **47,500+ views in 3 weeks** through storytelling campaigns  
+- [🔗 Instagram Page](https://www.instagram.com/jamra_glow/)  
 
 ## 🌐 Interact Tunisia Website
 
@@ -58,15 +63,12 @@
 ---
 
 ## 📜 Certificates & Achievements
-Scan the QR code or visit the link to view verified certificates and proof of achievements for my projects, competitions, and community work:  
-[bit.ly/HarounCertificates](https://bit.ly/HarounCertificates)  
 
-*Examples include:*  
-- Interact Club Leadership & Protocol Officer (2024–2025)  
-- B-Tech Competition Representation (2022 & 2023)  
-- INJAZ Hackathon Participation (2023)  
-- AI Summer Camp Completion (2023)  
-- Rift 3D Printing Startup Proof / Orders  
+You can view and download my verified certificates via the link below:
+
+[📄 View Certificates PDF](https://drive.google.com/file/d/1BP8RfLdMcdx0CqSMElxQF2Wf_Fy1Rjm8/view?usp=drive_link)
+
+
 
 ---
 
