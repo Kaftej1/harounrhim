@@ -18,8 +18,9 @@
 ### 🏓 Ping-Pong Ball Detection (YOLOv8)  
 - Trained on **900+ images** using Roboflow  
 - Built a working prototype detecting ball movements in real time  
-- ![Demo](https://via.placeholder.com/400x200?text=YOLOv8+Demo)  
-- [🔗 View Repository](https://github.com/harounrhim/pingpong-detection-yolov8)  
+- ![Demo]([docs/demo.png](https://github.com/Kaftej1/pingpong-detection-yolov8/video/PingPong.mp4))  
+- [🔗 View Repository](https://github.com/Kaftej1/pingpong-detection-yolov8)
+
 
 ### 💼 Rift – 3D Printing Startup  
 - Co-founded a **small business** with storytelling campaigns (100k+ views on Instagram)  
