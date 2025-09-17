@@ -14,6 +14,14 @@
 
 ---
 
+## 🎤 Interact Speeches Repository
+- Dedicated repository showcasing my public speaking and leadership skills as Protocol Officer at Interact Club Ruspina Monastir (2023–2025)  
+- Includes speeches, presentations, and mentoring sessions for 600+ Interactors  
+- Highlights ability to inspire, teach, and lead  
+- [🔗 View Repository](https://github.com/Kaftej1/interact-speeches)
+
+---
+
 ## 🔬 Featured Projects
 ### 🏓 Ping-Pong Ball Detection (YOLOv8)  
 - Trained on **900+ images** using Roboflow  
