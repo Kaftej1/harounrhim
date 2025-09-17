@@ -29,12 +29,16 @@
 - ![Demo](https://via.placeholder.com/400x200?text=Rift+3D+Printing)  
 - [🔗 View Repository](https://github.com/harounrhim/rift-3dprinting)  
 
-### 🌐 Interact Tunisia Website  
-- Developed a **fully working registration platform** for **600+ members**  
-- Built using **Flask (Python) and PHP**, integrating backend logic and database handling  
-- Facilitates event organization, registration, and participation  
-- ![Screenshot](https://via.placeholder.com/400x200?text=Interact+Website)  
-- [🔗 View Repository](https://github.com/harounrhim/interact-tunisia-website)  
+## 🌐 Interact Tunisia Website
+
+- Developed a fully working registration platform for **600+ members**  
+- Built using **Flask (Python)** and **PHP**, integrating backend logic and database handling  
+- Facilitates **event organization, registration, and participation**  
+
+### 🔗 Links
+- [View Repository](https://github.com/Kaftej1/interact-website)  
+- [Watch Demo Video](https://github.com/Kaftej1/interact-website/raw/master/interact-website.mp4)
+
 
 ---
 
